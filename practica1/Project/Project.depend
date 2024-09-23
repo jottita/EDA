@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1668786778 source:c:\users\jorge\onedrive\documentos\1º informatica\eda\practicas\practica1\project\main.cpp
+	<iostream>
+	"estudiantes.h"
+	"unizar.h"
+
+1668750135 c:\users\jorge\onedrive\documentos\1º informatica\eda\practicas\practica1\project\unizar.h
+	<iostream>
+
+1668750050 source:c:\users\jorge\onedrive\documentos\1º informatica\eda\practicas\practica1\project\unizar.cpp
+	"unizar.h"
+	<iomanip>
+	<sstream>
+
+1668175996 c:\users\jorge\onedrive\documentos\1º informatica\eda\practicas\practica1\project\estudiante.h
+
+1668786902 c:\users\jorge\onedrive\documentos\1º informatica\eda\practicas\practica1\project\estudiantes.h
+	"unizar.h"
+	<iostream>
+

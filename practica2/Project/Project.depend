@@ -1,0 +1,106 @@
+# depslib dependency file v1.0
+1668786778 source:c:\users\jorge\onedrive\documentos\1º informatica\eda\practicas\practica1\project\main.cpp
+	<iostream>
+	"estudiantes.h"
+	"unizar.h"
+
+1668750135 c:\users\jorge\onedrive\documentos\1º informatica\eda\practicas\practica1\project\unizar.h
+	<iostream>
+
+1668750050 source:c:\users\jorge\onedrive\documentos\1º informatica\eda\practicas\practica1\project\unizar.cpp
+	"unizar.h"
+	<iomanip>
+	<sstream>
+
+1668175996 c:\users\jorge\onedrive\documentos\1º informatica\eda\practicas\practica1\project\estudiante.h
+
+1668786902 c:\users\jorge\onedrive\documentos\1º informatica\eda\practicas\practica1\project\estudiantes.h
+	"unizar.h"
+	<iostream>
+
+1671128114 source:c:\users\jorge\onedrive\documentos\1º informatica\eda\practicas\practica2\project\main.cpp
+	<iostream>
+	"conciertos.h"
+	"unizar.h"
+
+1671051807 c:\users\jorge\onedrive\documentos\1º informatica\eda\practicas\practica2\project\unizar.h
+	"evento.h"
+	<iostream>
+
+1671058637 source:c:\users\jorge\onedrive\documentos\1º informatica\eda\practicas\practica2\project\unizar.cpp
+	"unizar.h"
+	<iomanip>
+	<sstream>
+
+1671104789 source:c:\users\jorge\onedrive\documentos\1º informatica\eda\practicas\practica2\project\evento.cpp
+	"evento.h"
+	<sstream>
+
+1671102430 c:\users\jorge\onedrive\documentos\1º informatica\eda\practicas\practica2\project\evento.h
+	<iostream>
+
+1671141221 c:\users\jorge\onedrive\documentos\1º informatica\eda\practicas\practica2\project\conciertos.h
+	"pila.h"
+	<iostream>
+
+1671135184 c:\users\jorge\onedrive\documentos\1º informatica\eda\practicas\practica2\project\pila.h
+
+1671150392 source:c:\users\usuario\desktop\practica2\project\evento.cpp
+	"evento.h"
+	<sstream>
+
+1671150402 c:\users\usuario\desktop\practica2\project\evento.h
+	<iostream>
+
+1671145206 source:c:\users\usuario\desktop\practica2\project\unizar.cpp
+	"unizar.h"
+	<iomanip>
+	<sstream>
+
+1671145206 c:\users\usuario\desktop\practica2\project\unizar.h
+	"evento.h"
+	<iostream>
+
+1671151477 source:c:\users\usuario\desktop\practica2\project\main.cpp
+	<iostream>
+	"evento.h"
+	"conciertos.h"
+	"unizar.h"
+
+1671151614 c:\users\usuario\desktop\practica2\project\conciertos.h
+	"pila.h"
+	<sstream>
+	<iostream>
+
+1671151126 c:\users\usuario\desktop\practica2\project\pila.h
+
+1671160667 source:c:\users\jorge\onedrive\escritorio\practica2\project\evento.cpp
+	"evento.h"
+	<sstream>
+
+1671159292 c:\users\jorge\onedrive\escritorio\practica2\project\evento.h
+	<iostream>
+
+1671199885 source:c:\users\jorge\onedrive\escritorio\practica2\project\main.cpp
+	<iostream>
+	"evento.h"
+	"conciertos.h"
+	"unizar.h"
+
+1671199949 c:\users\jorge\onedrive\escritorio\practica2\project\conciertos.h
+	"pila.h"
+	<sstream>
+	<iostream>
+	<iomanip>
+
+1671194366 c:\users\jorge\onedrive\escritorio\practica2\project\pila.h
+
+1671160217 c:\users\jorge\onedrive\escritorio\practica2\project\unizar.h
+	"evento.h"
+	<iostream>
+
+1671196404 source:c:\users\jorge\onedrive\escritorio\practica2\project\unizar.cpp
+	"unizar.h"
+	<iomanip>
+	<sstream>
+
